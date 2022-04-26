@@ -176,3 +176,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2022-04-26 14:54:26,269 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
 2022-04-26 14:54:26,270 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-26 14:54:26,270 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
+2022-04-26 14:58:13,588 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-26 14:58:13,589 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
+2022-04-26 14:58:13,591 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-26 14:58:13,591 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
