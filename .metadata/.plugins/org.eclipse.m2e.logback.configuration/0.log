@@ -587,3 +587,37 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.po
 2022-04-27 12:07:02,176 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-27 12:07:02,176 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-04-27 12:07:02,176 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Deploy Application on Cloud\Deploy-Application-on-Cloud\src\test\resources
+2022-04-27 13:35:34,125 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:35:34,125 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
+2022-04-27 13:35:34,128 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:35:34,128 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
+2022-04-27 13:35:34,532 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-27 13:35:34,535 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application Project2\src\main\resources
+2022-04-27 13:35:34,538 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-27 13:35:34,540 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application Project2\src\test\resources
+2022-04-27 13:35:38,188 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:35:38,188 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
+2022-04-27 13:35:38,190 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:35:38,190 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
+2022-04-27 13:36:24,274 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:36:24,275 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
+2022-04-27 13:36:24,276 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:36:24,276 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
+2022-04-27 13:36:31,648 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:36:31,649 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
+2022-04-27 13:36:31,650 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:36:31,651 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
+2022-04-27 13:37:06,271 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-27 13:37:10,864 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.selenium:lesson1:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\pom.xml.
+2022-04-27 13:37:11,931 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationScript:login:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application Project2\pom.xml.
+2022-04-27 13:37:14,449 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Automate a Web Application/src/main/java
+2022-04-27 13:37:14,450 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Automate a Web Application/src/test/java
+2022-04-27 13:37:14,527 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2022-04-27 13:37:14,784 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:37:14,785 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\main\resources
+2022-04-27 13:37:14,786 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 13:37:14,787 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application\src\test\resources
+2022-04-27 13:37:15,549 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-27 13:37:15,550 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application Project2\src\main\resources
+2022-04-27 13:37:15,552 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-27 13:37:15,555 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Phase 5 Projects\Automate a Web Application Project2\src\test\resources
