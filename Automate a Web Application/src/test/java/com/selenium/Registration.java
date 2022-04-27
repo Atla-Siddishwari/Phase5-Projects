@@ -41,10 +41,10 @@ WebDriver driver = new ChromeDriver();
        driver.findElement(By.xpath("(//input[@type='text'])")).sendKeys("Siddishwari");
        Thread.sleep(5000);
   
-       driver.findElement(By.xpath("(//input[@type='email'])")).sendKeys("abc@123");
+       driver.findElement(By.xpath("(//input[@type='email'])")).sendKeys("siddeswari0401@gmail.com");
        Thread.sleep(2000);
 
-       driver.findElement(By.xpath("(//input[@type='password'])")).sendKeys("123456");
+       driver.findElement(By.xpath("(//input[@type='password'])")).sendKeys("Siddu@04");
        Thread.sleep(2000);
 
        driver.findElement(By.xpath("(//input[@id='continue'])")).click();
